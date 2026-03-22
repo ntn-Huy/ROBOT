@@ -21,7 +21,7 @@
 * [cite_start]**Mục tiêu:** Kiểm tra các lệnh điều khiển cơ bản (Tiến, Lùi, Rẽ, Xoay 180°/360°, Dừng) và xác định thời gian delay tối ưu cho mỗi hành động[cite: 34, 41].
 * [cite_start]**Kết quả:** Động cơ GA25-370 kết hợp với mạch cầu L298N đáp ứng tốt các yêu cầu về tốc độ và lực đẩy cần thiết cho robot 1.5kg[cite: 14, 24].
 * **Video minh họa:**
-    [![Xem Video Test Di Chuyển](https://img.shields.io/badge/VIDEO-TEST_DI_CHUYEN-blue?style=for-the-badge&logo=youtube)](https://link-video-cua-ban.com)
+    [![Xem Video Test Di Chuyển](https://img.shields.io/badge/VIDEO-TEST_DI_CHUYEN-blue?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1gu7C8QK5NKspLqIrIKt5o9WAxRYJ1id6/view?usp=drive_link)
 
 ### 🛰️ 2.2. Kiểm thử Thuật toán Giải mê cung (Laser/Siêu âm)
 * [cite_start]**Mục tiêu:** Thử nghiệm thứ tự ưu tiên rẽ (Rẽ Phải > Đi Thẳng > Rẽ Trái > Quay đầu) khi gặp vật cản hoặc tường[cite: 60, 62, 63, 64, 65].
